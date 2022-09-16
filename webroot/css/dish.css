@@ -1,0 +1,12 @@
+.dish-info{
+    display: flex;
+}
+
+.dish-status{
+    color:green;
+}
+
+img{
+    margin-right: 40px;
+}
+
